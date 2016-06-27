@@ -22,5 +22,5 @@ After training, you can detect your keystroke pattern and authenticate.
 
 ```python Authenticate.py```
 
-<img src="https://i.gyazo.com/9a4997e0fa1a9416969c07f61d2289ef.gif/>
+<img src="https://i.gyazo.com/9a4997e0fa1a9416969c07f61d2289ef.gif"/>
 
